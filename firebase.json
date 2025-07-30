@@ -1,0 +1,8 @@
+{
+  "hosting": {
+    "source": ".",
+    "appHosting": {
+      "target": "starcart-rewards"
+    }
+  }
+}
